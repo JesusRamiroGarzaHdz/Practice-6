@@ -91,4 +91,4 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+En esta práctica utilizamos los conocimientos que habíamos adquirido hasta el momento para deiseñar un programa muy específico que fue el juego whack a mole. De cierta forma sentí que la práctica me ayudó a entender otras formas en las cuales se pueden utilizar las herramientas que estamos viendo en clase y en el laboratorio. Usualmente veo todos estos temas como sumamente técnicos y con aplicaciones únicamente en el mundo de la ingeniería, sin embargo el poder hacer un programa básico que simulaba un juego arcade, me hizo pensar que hay muchas posibilidades en el uso de las tecnologías.
